@@ -1,2 +1,2 @@
-# React Card
+# Getting Started with Create React App
  
